@@ -86,7 +86,7 @@ section{
     padding-right: 10%;
     padding-bottom: 5%;
 }
-#last-part{
+article{
     background-color: black;
     color: white;
     height: 300px;
@@ -95,7 +95,9 @@ section{
 li{
     list-style-type: none;
 }
-
+footer{
+    text-align: center;
+}
 
 
 
